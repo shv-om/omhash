@@ -4,7 +4,7 @@
 A simple Hash Algorithm
 
 This is just a simple and maybe not-so-secure Hash Algorithm implementation..
-https://github.com/ulegend/omhash.git
+
 """
 
 class Omhash:
